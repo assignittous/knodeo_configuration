@@ -1,0 +1,28 @@
+{
+  "name": "knodeo-configuration",
+  "version": "0.1.0",
+  "description": "Simple configuration loader used in Knodeo products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assignittous/knodeo_configuration.git"
+  },
+  "author": "Steven Ng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/assignittous/knodeo_configuration/issues"
+  },
+  "homepage": "https://github.com/assignittous/knodeo_configuration",
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "cson": "^3.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-plumber": "^1.0.1"
+  }
+}
