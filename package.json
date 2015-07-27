@@ -1,6 +1,6 @@
 {
   "name": "knodeo-configuration",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple configuration loader used in Knodeo products",
   "main": "index.js",
   "scripts": {
